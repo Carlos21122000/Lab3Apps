@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="guatemala">Guatemala</string>
+    <string name="name">Name</string>
+    <string name="write_your_name">write your name</string>
+    <string name="bio">GUATEMALA.
+        \n\nGuatemala officially the Republic of Guatemala (Spanish: República de Guatemala),
+        \n\nis a country in Central America bordered by Mexico to the north and west,
+        \n\nBelize and the Caribbean to the northeast, Honduras to the east, El Salvador
+        \n\nto the southeast and the Pacific Ocean to the south. With an estimated
+        \n\npopulation of around 17.2 million, it is the most populous country in
+        \n\nCentral America.\n\n</string>
+    <string name="tikal">tikal</string>
+    <string name="antigua">antigua</string>
+    <string name="flores">flores</string>
+    <string name="a_trip_to_the_heart_of_the_mayan_world">A trip to the heart of the Mayan world</string>
+    <string name="Tikal">Tikal</string>
+    <string name="comment">Comment</string>
+    <string name="bio1">bio1</string>
+    <string name="Comment">Comment</string>
+    <string name="Enviar">Enviar</string>
+    <string name="bio2">bio2</string>
+    <string name="Antigua_Guatemala">Antigua Guatemala</string>
+    <string name="the_colonial_city_of_central_america">the colonial city of central america</string>
+    <string name="bio3">bio3</string>
+    <string name="Flores_Peten">Flores Peten</string>
+</resources>
